@@ -1,5 +1,21 @@
 ## Hi there 👋
+#### Aspiring software engineer at Concordia University in Quebec, Canada. I enjoy learning new things and figuring out creative solutions to any problem I run into.
 
+Completed Projects:
+* Smart Travel Agency
+  - Booking system and tracker for trips, clients, accommodations and transportations
+  - Interactive Console Application
+  - Data stored in txt files
+  - Java
+* Smart Course Companion
+  - Course Companion for students and instructors
+  - Add courses, announcements, grades, assignments
+  - Full-stack: HTML, CSS, Node.js, Express, MySQL
+  - Data stored in a MySQL database
+
+In Progress Projects:
+* Web Scraper for ?Books information
+  - shows prices, reviews, filters based on genre etc.
 <!--
 **WaniaFaraz/WaniaFaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
