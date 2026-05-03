@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1518531933037-91b2f5f229cc/?&w=1200&h=200&fit=crop&crop=top" style="width:100%; height:3in; object-fit:cover; object-position: 50% 50%;">
+<img src="https://images.unsplash.com/photo-1518531933037-91b2f5f229cc/?&w=1200&h=100&fit=crop&crop=top" style="width:100%; height:3in; object-fit:cover; object-position: 50% 50%;">
 
 ## Hi there 👋
 #### Aspiring software engineer at Concordia University in Quebec, Canada. I enjoy learning new things and figuring out creative solutions to any problem I run into.
