@@ -2,6 +2,8 @@
 
 ## Hi there 👋
 #### Aspiring software engineer at Concordia University in Quebec, Canada. I enjoy learning new things and figuring out creative solutions to any problem I run into.
+### <div align="center" > Python &bull; Java &bull; HTML &bull; CSS &bull; JavaScript &bull; MySQL </div>
+### <div align="center" > Node.js &bull; Express &bull; React &bull; 
 
 Completed Projects:
 * Smart Travel Agency
