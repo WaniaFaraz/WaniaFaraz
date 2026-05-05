@@ -21,6 +21,10 @@ Completed Projects:
   - Instructor activity (creating assignments, announcements, etc.) visible to students
   - Full-stack: HTML, CSS, Node.js, Express, MySQL
   - Data stored in a MySQL database
+* Python Data Analysis Tool (early college assignment)
+  - Reads data from a text file and stores it in dictionnaries
+  - Sorts and searches data to display certain info when prompted
+  - Uses Matplotlib to display pie charts
 
 In Progress Projects:
 * Web Scraper for ?Books information
