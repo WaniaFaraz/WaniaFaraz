@@ -29,6 +29,7 @@ Completed Projects:
 In Progress Projects:
 * Web Scraper for ?Books information
   - shows prices, reviews, filters based on genre etc.
+  - Tools: React, Flask, Python
 <!--
 **WaniaFaraz/WaniaFaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
