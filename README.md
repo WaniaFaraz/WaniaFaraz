@@ -3,23 +3,23 @@
 ## Hi there 👋
 #### Aspiring software engineer at Concordia University in Quebec, Canada. I enjoy learning new things and figuring out creative solutions to any problem I run into.
 ### <div align="center" > Python &bull; Java &bull; HTML &bull; CSS &bull; JavaScript &bull; MySQL </div>
-### <div align="center" > Node.js &bull; Express &bull; React </div>
+### <div align="center" > Node.js &bull; Express &bull; React &bull; Spring Boot </div>
 
 Completed Projects:
 * Smart Travel Agency
+  - Java (OOP, interfaces, File I/O)
   - Booking system and tracker for trips, clients, accommodations and transportations
   - Add clients, track their trips, add accommodation and transportation options for each trip
   - Add/edit/delete accommodation and transportation options
   - Calculate the cost of a clients trip
   - Various analytics...
   - Interactive Console Application
-  - Data stored in txt files
-  - Java
+  - Data stored in txt files for persistence
 * Smart Course Companion
+  - Full-stack: HTML, CSS, Node.js, Express, MySQL
   - Course Companion for students and instructors
   - Add courses, announcements, grades, assignments
   - Instructor activity (creating assignments, announcements, etc.) visible to students
-  - Full-stack: HTML, CSS, Node.js, Express, MySQL
   - Data stored in a MySQL database
 * Python Data Analysis Tool (early college assignment)
   - Reads data from a text file and stores it in dictionnaries
@@ -27,6 +27,16 @@ Completed Projects:
   - Uses Matplotlib to display pie charts
 
 In Progress Projects:
+* Cars catalogue
+  - Full-stack web app: Spring Boot and React
+  - Data stored as a .json file for persistence
+  - Add/Delete Cars
+  - Filter cars
+  - Pending features:
+    - filter info displayed on each card
+    - edit cars
+    - add notes
+
 * Web Scraper for ?Books information
   - shows prices, reviews, filters based on genre etc.
   - Tools: React, Flask, Python
